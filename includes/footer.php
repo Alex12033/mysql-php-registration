@@ -1,5 +1,5 @@
 <footer>
-    © 2014 <ahref="http://www.1stwebdesigner.com/">1stwebdesigner</a>. Все права защищены.
+    © 2021 <a href="">designer</a>. Все права защищены.
  </footer>
 </body>
 </html>
