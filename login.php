@@ -38,16 +38,16 @@
 <body>
     <div class="container mlogin">
         <div id="login">
-            <h1>Вход</h1>
+            <h1>Input</h1>
             <form action="" id="loginform" method="post"name="loginform">
-                <p><label for="user_login">Имя опльзователя<br>
+                <p><label for="user_login">Name user<br>
                 <input class="input" id="username" name="username"size="20"
                     type="text" value=""></label></p>
-                <p><label for="user_pass">Пароль<br>
+                <p><label for="user_pass">Password<br>
                 <input class="input" id="password" name="password"size="20"
                     type="password" value=""></label></p> 
             	<p class="submit"><input class="button" name="login"type= "submit" value="Log In"></p>
-            	<p class="regtext">Еще не зарегистрированы?<a href= "register.php">Регистрация</a>!</p>
+            	<p class="regtext">Not registered?<a href= "register.php">Registration</a>!</p>
             </form>
          </div>
     </div>

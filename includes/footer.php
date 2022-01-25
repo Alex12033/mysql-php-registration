@@ -1,5 +1,5 @@
 <footer>
-    © 2021 <a href="">designer</a>. Все права защищены.
+    © 2021 <a href="">designer</a>.web programming
  </footer>
 </body>
 </html>

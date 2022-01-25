@@ -3,18 +3,18 @@
 <body>
 <div class="container mregister">
     <div id="login">
-     <h1>Регистрация</h1>
+     <h1>Registration</h1>
         <form action="register.php" id="registerform" method="post"name="registerform">
-            <p><label for="user_login">Полное имя<br>
+            <p><label for="user_login">Name<br>
                 <input class="input" id="full_name" name="full_name"size="32"  type="text" value=""></label></p>
             <p><label for="user_pass">E-mail<br>
                 <input class="input" id="email" name="email" size="32"type="email" value=""></label></p>
-            <p><label for="user_pass">Имя пользователя<br>
+            <p><label for="user_pass">User name<br>
                 <input class="input" id="username" name="username"size="20" type="text" value=""></label></p>
-            <p><label for="user_pass">Пароль<br>
+            <p><label for="user_pass">Password<br>
                 <input class="input" id="password" name="password"size="32"   type="password" value=""></label></p>
             <p class="submit"><input class="button" id="register" name= "register" type="submit" value="Зарегистрироваться"></p>
-            	<p class="regtext">Уже зарегистрированы? <a href= "login.php">Введите имя пользователя</a>!</p>
+            	<p class="regtext">You registered? <a href= "login.php">Enter user name</a>!</p>
         </form>
     </div>
 </div>
